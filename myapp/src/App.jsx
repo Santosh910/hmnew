@@ -1,16 +1,17 @@
 
-import './App.css';
+
+import Restaurant from './component/basics/Restaurant';
 // import { Routes, Route } from 'react-router-dom';
 
 
 
 
 function App() {
-  return 
-    <div className="App">
+  return (
+    <Restaurant/>
      
-    </div>
-  
+   
+  )
 }
 
 export default App;
